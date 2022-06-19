@@ -3,11 +3,6 @@
 <h3 align="center">Love to learn and experiment with new tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devabishek&label=Profile%20views&color=0e75b6&style=flat" alt="devabishek" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://abishekagarwal.netlify.app](https://abishekagarwal.netlify.app)
-
-- 📫 How to reach me **abishek.agarwal_ug24@ashoka.edu.in**
-
 - 📄 Know about my experiences [https://abishekagarwal.netlify.app/Abishek_Agarwal_Resume.pdf](https://abishekagarwal.netlify.app/Abishek_Agarwal_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
